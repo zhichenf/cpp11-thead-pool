@@ -1,0 +1,3 @@
+D:/code/c++/visual_studio_code/thread_pool/build/CMakeFiles/thread_pool.dir
+D:/code/c++/visual_studio_code/thread_pool/build/CMakeFiles/edit_cache.dir
+D:/code/c++/visual_studio_code/thread_pool/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/code/c++/visual_studio_code/thread_pool/build",
+  "command": "D:\\code\\tools\\mingw64\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\thread_pool.dir\\main.cc.obj -c D:\\code\\c++\\visual_studio_code\\thread_pool\\main.cc",
+  "file": "D:/code/c++/visual_studio_code/thread_pool/main.cc",
+  "output": "CMakeFiles/thread_pool.dir/main.cc.obj"
+},
+{
+  "directory": "D:/code/c++/visual_studio_code/thread_pool/build",
+  "command": "D:\\code\\tools\\mingw64\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\thread_pool.dir\\tast_queue.cc.obj -c D:\\code\\c++\\visual_studio_code\\thread_pool\\tast_queue.cc",
+  "file": "D:/code/c++/visual_studio_code/thread_pool/tast_queue.cc",
+  "output": "CMakeFiles/thread_pool.dir/tast_queue.cc.obj"
+},
+{
+  "directory": "D:/code/c++/visual_studio_code/thread_pool/build",
+  "command": "D:\\code\\tools\\mingw64\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\thread_pool.dir\\thread_pool.cc.obj -c D:\\code\\c++\\visual_studio_code\\thread_pool\\thread_pool.cc",
+  "file": "D:/code/c++/visual_studio_code/thread_pool/thread_pool.cc",
+  "output": "CMakeFiles/thread_pool.dir/thread_pool.cc.obj"
+}
+]
