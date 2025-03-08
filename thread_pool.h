@@ -10,7 +10,6 @@
 
 class ThreadPool {
     using Task = std::function<void()>;
-    friend class WorkThread;
 public:
     ThreadPool(size_t thread_num, size_t que_size);
     ~ThreadPool() = default;
